@@ -1,3 +1,4 @@
+<a href="#" class="btn btn-danger" style="color: red; font-size: 20px;">R A V G A R</a>
 # Ben Böyle Adamları Gün Açığına Çıkarmaktan Bıktım Onlar Ün Ünvan Uğruna Bundan Bıkmadılar
 # Hex Denilen Türeme Yeni Çıkmış Yok Ferhat Owsla Gibiyim Falan Fistan Geziyor Piyasada Çoğu Yerde Botlarının Güvenilir Olduğunu Vs Söylüyor Owsla Gibiymiş Sunucu Patlatmazmış Falan Fistan Bu Adama İnanıp Paranızı Boşa Kaptırmayın PAPAZ'ın Botlarını Kullanan Papaz'ın Üzerinden Para Kazanan Birisi Onun Yerine Altyapı Sahibi PAPAZ'a Yaptırın Botlarınızı Hadi Eyw ![image](https://github.com/ravgar/Hex-Owsla-Ablam/assets/97904458/2672f03c-cadc-48cc-9b55-8241b01e47e7)
 Burası İçinde Götünüzü Fazla Yırtmayın Ortadan İkiye Ayırırlar Sonra Bu Repo İçinde Kimseyi Araya Katıp Yazmayın Repo Silinmeyecektir BİLGİNİZE! İyi Günler Discord Ailesi
