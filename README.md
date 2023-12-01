@@ -11,4 +11,4 @@ Burası İçinde Götünüzü Fazla Yırtmayın Ortadan İkiye Ayırırlar Sonra
 ![image](https://github.com/ravgar/Hex-Owsla-Ablam/assets/97904458/63bce6c9-7abf-46c7-90f5-dc1eee6f3bdf)
 # ALTYAPI'LARIN ASIL SAHİBİ
 
-<a href="#" class="btn btn-danger" style="color: white; font-size: 20px;">Öptüm Aniden</a>
+<a href="#" class="btn btn-danger" style="color: white; font-size: 20px;">Öptüm Aniden HEXCİM</a>
